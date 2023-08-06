@@ -1,23 +1,13 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula03TiposPrimitivos {
+public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
-        int idade = 10;
-        long nomeroGrande = 1000000;
-        byte idadeByte = 10;
-        short idadeShort = 10;
-        float peso = 128.8F;
-        double pesoDouble = 128.8;
-        boolean verdadeido = true;
-        boolean falso = false;
-        char sexoMasculino = 'M';
-        char sexoFeminino = 'F';
-        char sexoA = '\u0041';
-
-        System.out.println("A idade é "+idade+" anos!");
-        System.out.println(sexoMasculino);
-        System.out.println(sexoFeminino);
-        System.out.println(sexoA);
-
+        String nome = "Lucas";
+        String endereco = "Rua dos Coqueirais";
+        double salario = 2000.0;
+        String dataDoSalario = "2023-02-06";
+        String relatorio = "Eu "+nome+", morando no endereço "+endereco+", confirmo que recebi o salário de "+salario+", na data "+dataDoSalario;
+        System.out.println(relatorio);
+//        System.out.println("Eu "+nome+", morando no endereço "+endereco+", confirmo que recebi o salário de "+salario+", na data "+dataDoSalario);
     }
 }
