@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualizando a versão do projeto.master">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/TesteOperadorCondicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/TesteOperadorCondicional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e4f4507c-f33e-4a2a-a799-a8a8a8ff9577" />
+        <option name="url" value="https://github.com/Lucas19Almeida/maratona-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,6 +61,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Projetos/maratona-java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -56,7 +74,7 @@
       <recent name="academy.devdojo.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula02TiposPrimitivos">
+  <component name="RunManager" selected="Application.Aula04Operadores">
     <configuration name="Aula01OlaDevDojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula01OlaDevDojo" />
       <module name="maratona-java" />
@@ -118,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula04Operadores" />
+        <item itemvalue="Application.Aula03TiposPrimitivosExercicio" />
         <item itemvalue="Application.Aula02TiposPrimitivos" />
         <item itemvalue="Application.Aula01OlaDevDojo" />
         <item itemvalue="Application.TesteOperadorCondicional" />
-        <item itemvalue="Application.Aula03TiposPrimitivosExercicio" />
-        <item itemvalue="Application.Aula04Operadores" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +153,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669157711264</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atualizando a versão do projeto.master">
+      <created>1691347949566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691347949566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +173,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizando a versão do projeto.master" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando a versão do projeto.master" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

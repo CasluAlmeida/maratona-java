@@ -4,23 +4,23 @@ public class Aula04Operadores {
     public static void main(String[] args) {
 //        + - / *
         int numero01 = 10;
-        int numero02 = 20;
-        double resultado = numero01 / (double) numero02;
-        System.out.println("A somatoria é " + (3 / 2D));
+        double numero02 = 20;
+        double resultado = numero01 / numero02;
+        System.out.println("O resultado da divisão é " + (3 / 2D));
         System.out.println(resultado + "\n");
 
 //        % - Resto da divisão
         int resto = 20 % 3;
         System.out.println(resto + "\n");
 
-//        < > <= >= !=
+//        < > <= >= == !=
         int num1 = 5;
         double numDuble = 5.0;
         boolean isCincoIgualCinco = num1 == numDuble;
         boolean isDezMaiorQueVinte = 10 > 20;
         boolean isDezMenorQueVinte = 10 < 20;
         boolean isDezIgualQueVinte = 10 == 20;
-        boolean isDezIgualDez = 10 == 10;
+        boolean isDezIgualDez = 10 == 10.0;
         boolean isDezDiferenteDez = 10 != 10;
         System.out.println("isDezMaiorQueVinte " + isDezMaiorQueVinte);
         System.out.println("isDezMenorQueVinte " + isDezMenorQueVinte);
@@ -29,7 +29,7 @@ public class Aula04Operadores {
         System.out.println("isDezDiferenteDez " + isDezDiferenteDez);
         System.out.println("isCincoIgualCinco " + isCincoIgualCinco + "\n");
 
-//      && (AND) !! (or) !
+//      && (AND) || (OR) !
 
         int idade = 22;
         float salario = 3500F;
