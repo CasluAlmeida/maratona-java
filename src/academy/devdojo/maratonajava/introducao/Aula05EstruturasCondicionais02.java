@@ -19,5 +19,7 @@ public class Aula05EstruturasCondicionais02 {
             categoria = "Sua categoria é adulto";
         }
         System.out.println(categoria);
+
+        System.out.println("Teste");
     }
 }
