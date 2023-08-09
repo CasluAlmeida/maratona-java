@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualizacao referente a aula 18 - Operadores pt 04" />
+    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualizacao referente a aula 18 - Operadores pt 04">
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691457834325</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Teste commit">
+      <option name="closed" value="true" />
+      <created>1691622566800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622566800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,7 +220,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualizando a versão do projeto.master" />
     <MESSAGE value="Atualizacao referente a aula 18 - Operadores pt 04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao referente a aula 18 - Operadores pt 04" />
+    <MESSAGE value="Teste commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
