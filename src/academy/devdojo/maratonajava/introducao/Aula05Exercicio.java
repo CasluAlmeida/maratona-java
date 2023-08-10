@@ -24,11 +24,6 @@ public class Aula05Exercicio {
             valorImpostoAPagar = salarioAnual * terceiraFaixa;
             resultado = "O total do imposto a pagar com base no seu salário anual é " + valorImpostoAPagar;
         }
-
-//        resultado = salarioAnual <= 34712 ? "O total do imposto a pagar com base no seu salário anual é " + salarioAnual * 0.0970 :
-//                salarioAnual >= 34713 && salarioAnual <= 68507 ? "O total do imposto a pagar com base no seu salário anual é " + salarioAnual * 0.3735 :
-//                        "O total do imposto a pagar com base no seu salário anual é " + salarioAnual * 0.4950;
-
         System.out.println(resultado);
     }
 }

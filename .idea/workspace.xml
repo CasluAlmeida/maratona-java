@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualização referente ao exercicio de Estruturas Condicionais" />
+    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualização logica referente ao exercicio de Estruturas Condicionais">
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Exercicio.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691625709733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Atualização logica referente ao exercicio de Estruturas Condicionais">
+      <option name="closed" value="true" />
+      <created>1691685377064</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691685377064</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +255,8 @@
     <MESSAGE value="Teste commit" />
     <MESSAGE value="Teste commit validacao" />
     <MESSAGE value="Atualização referente a aula 22 Operador ternario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização referente a aula 22 Operador ternario" />
+    <MESSAGE value="Atualização logica referente ao exercicio de Estruturas Condicionais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização logica referente ao exercicio de Estruturas Condicionais" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
