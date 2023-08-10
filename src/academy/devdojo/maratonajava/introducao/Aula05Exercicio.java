@@ -8,17 +8,20 @@ public class Aula05Exercicio {
         // salarioAnual >= 34713 && salarioAnual <= 68507 - 37.35%
         // salarioAnual >= 68508 - 49.50%
         double salarioAnual = Double.parseDouble(JOptionPane.showInputDialog("Digite seu salario anual:"));
+        double primeiraFaixa = 9.70 / 100;
+        double segundaFaixa = 37.35 / 100;
+        double terceiraFaixa = 49.50 / 100;
         double valorImpostoAPagar;
         String resultado;
 
         if (salarioAnual <= 34712) {
-            valorImpostoAPagar = salarioAnual * 0.0970;
+            valorImpostoAPagar = salarioAnual * primeiraFaixa;
             resultado = "O total do imposto a pagar com base no seu salário anual é " + valorImpostoAPagar;
         } else if (salarioAnual >= 34713 && salarioAnual <= 68507) {
-            valorImpostoAPagar = salarioAnual * 0.3735;
+            valorImpostoAPagar = salarioAnual * segundaFaixa;
             resultado = "O total do imposto a pagar com base no seu salário anual é " + valorImpostoAPagar;
         } else {
-            valorImpostoAPagar = salarioAnual * 0.4950;
+            valorImpostoAPagar = salarioAnual * terceiraFaixa;
             resultado = "O total do imposto a pagar com base no seu salário anual é " + valorImpostoAPagar;
         }
 
