@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Teste commit validacao">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
+    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualização referente a aula 22 Operador ternario">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Exercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
     </list>
@@ -97,20 +97,7 @@
       <recent name="academy.devdojo.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais02">
-    <configuration name="Aula03TiposPrimitivosExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicio" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula05Exercicio">
     <configuration name="Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula04Operadores" />
       <module name="maratona-java" />
@@ -163,13 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula05Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05Exercicio" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula05EstruturasCondicionais02" />
+        <item itemvalue="Application.Aula05Exercicio" />
         <item itemvalue="Application.Aula05EstruturasCondicionais03" />
+        <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais01" />
         <item itemvalue="Application.Aula04Operadores" />
-        <item itemvalue="Application.Aula03TiposPrimitivosExercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691624085695</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização referente a aula 22 Operador ternario">
+      <option name="closed" value="true" />
+      <created>1691625709733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691625709733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +248,8 @@
     <MESSAGE value="Atualizacao referente a aula 18 - Operadores pt 04" />
     <MESSAGE value="Teste commit" />
     <MESSAGE value="Teste commit validacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste commit validacao" />
+    <MESSAGE value="Atualização referente a aula 22 Operador ternario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização referente a aula 22 Operador ternario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

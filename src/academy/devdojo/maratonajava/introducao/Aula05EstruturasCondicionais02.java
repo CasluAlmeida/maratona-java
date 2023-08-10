@@ -18,7 +18,7 @@ public class Aula05EstruturasCondicionais02 {
         } else {
             categoria = "Sua categoria é adulto";
         }
-        //É possivel fazer com operador ternario, mas não é recomendado
+        //É possivel fazer com operador ternario, mas não é recomendado!!
         //categoria = isCategoriaInfantil ? "Sua categoria é infantil" : isCategoriaJuvenil ? "Sua categoria é juvenil" : "Sua categoria é adulto";
 
         System.out.println(categoria);
