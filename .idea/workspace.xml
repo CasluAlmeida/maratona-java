@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualização logica referente ao exercicio de Estruturas Condicionais">
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Exercicio.java" afterDir="false" />
+    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Atualização exercicio">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +82,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Projetos/maratona-java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
@@ -95,33 +98,7 @@
       <recent name="academy.devdojo.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula05Exercicio">
-    <configuration name="Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula04Operadores" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula05EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais06">
     <configuration name="Aula05EstruturasCondicionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais02" />
       <module name="maratona-java" />
@@ -148,8 +125,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula05Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05Exercicio" />
+    <configuration name="Aula05EstruturasCondicionais04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula05EstruturasCondicionais05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais05" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula05EstruturasCondicionais06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais06" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula05Exercicio" />
+        <item itemvalue="Application.Aula05EstruturasCondicionais06" />
+        <item itemvalue="Application.Aula05EstruturasCondicionais05" />
+        <item itemvalue="Application.Aula05EstruturasCondicionais04" />
         <item itemvalue="Application.Aula05EstruturasCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
-        <item itemvalue="Application.Aula05EstruturasCondicionais01" />
-        <item itemvalue="Application.Aula04Operadores" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691685377064</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Atualização exercicio">
+      <option name="closed" value="true" />
+      <created>1691685458389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691685458389</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +267,8 @@
     <MESSAGE value="Teste commit validacao" />
     <MESSAGE value="Atualização referente a aula 22 Operador ternario" />
     <MESSAGE value="Atualização logica referente ao exercicio de Estruturas Condicionais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização logica referente ao exercicio de Estruturas Condicionais" />
+    <MESSAGE value="Atualização exercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização exercicio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

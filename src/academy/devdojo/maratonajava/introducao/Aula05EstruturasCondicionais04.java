@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 import javax.swing.*;
 
-public class Aula05Exercicio {
+public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
         // salarioAnual > 0 && salarioAnual <= 34712 - 9.70%
         // salarioAnual >= 34713 && salarioAnual <= 68507 - 37.35%
