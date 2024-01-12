@@ -5,7 +5,7 @@ public class Aula06EstruturasDeRepeticao02 {
         //Imprima todos os números pares de 0 até 1000000
         int numero = 0;
 
-        while (numero <= 1000000) {
+        while (numero <= 100) {
             if (numero % 2 == 0) {
                 System.out.println(numero);
             }
@@ -20,11 +20,11 @@ public class Aula06EstruturasDeRepeticao02 {
                 System.out.println("Dentro do Do-while " + numero);
             }
             numero++;
-        } while (numero <= 1000000);
+        } while (numero <= 100);
 
         System.out.println();
 
-        for (int i = 1; i <= 1000000; i++) {
+        for (int i = 0; i <= 100; i++) {
             if (i % 2 == 0) {
                 System.out.println("Dentro do For " + i);
             }
