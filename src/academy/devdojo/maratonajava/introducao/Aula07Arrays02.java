@@ -6,12 +6,15 @@ public class Aula07Arrays02 {
         // char '\u0000' ' '
         // boolean false
         // String null
+        int tamanhoArray = 5;
+        String anime = "Sasuke";
 
-        String[] nomes = new String[4];
+        String[] nomes = new String[tamanhoArray];
         nomes[0] = "Naruto";
         nomes[1] = "Minato";
         nomes[2] = "Kakashi";
         nomes[3] = "Jiraiya";
+        nomes[4] = anime;
 
         for (int i = 0; i < nomes.length; i++) {
             System.out.println(nomes[i]);
