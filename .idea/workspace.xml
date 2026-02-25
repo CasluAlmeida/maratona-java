@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Revisando os conteudos do maratona-java.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/CasluAlmeida/maratona-java.git",
-    "accountId": "137d0cf0-92fa-4fe3-96cd-b00a6b8351ad"
+    "accountId": "918996c9-5864-4907-b3e4-720cab09c036"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -79,37 +82,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Aula01OlaDevDojo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula05EstruturasCondicionais06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula06EstruturasDeRepeticao05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07Arrays02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula07Arrays03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteVar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.academy.devdojo.maratonajava.introducao.JurosCompostos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/lucas-ar/Documentos/Cursos_Java/maratona-java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Aula01OlaDevDojo.executor": "Run",
+    "Application.Aula02TiposPrimitivos.executor": "Run",
+    "Application.Aula05EstruturasCondicionais06.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao01.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao02.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao05.executor": "Run",
+    "Application.Aula07Arrays02.executor": "Run",
+    "Application.Aula07Arrays03.executor": "Run",
+    "Application.TesteVar.executor": "Run",
+    "Application.academy.devdojo.maratonajava.introducao.JurosCompostos.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lucasar/Projetos/maratona-java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="academy.devdojo.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula01OlaDevDojo">
+  <component name="RunManager" selected="Application.Aula02TiposPrimitivos">
     <configuration name="Aula01OlaDevDojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula01OlaDevDojo" />
       <module name="maratona-java" />
@@ -123,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula06EstruturasDeRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao05" />
+    <configuration name="Aula02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -177,13 +182,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula02TiposPrimitivos" />
         <item itemvalue="Application.Aula01OlaDevDojo" />
         <item itemvalue="Application.TesteVar" />
         <item itemvalue="Application.Aula07Arrays03" />
         <item itemvalue="Application.Aula07Arrays02" />
-        <item itemvalue="Application.Aula06EstruturasDeRepeticao05" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
