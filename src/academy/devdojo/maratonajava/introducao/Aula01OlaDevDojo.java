@@ -11,7 +11,6 @@ package academy.devdojo.maratonajava.introducao;
 // Comentarios
 public class Aula01OlaDevDojo {
     public static void main(String[] args) {
-        System.out.println("Ola Mundo");
-        
+        System.out.println("Hello World");
     }
 }
