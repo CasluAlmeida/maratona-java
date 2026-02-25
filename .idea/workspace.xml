@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="Revisando os conteudos do maratona-java.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3ab49a2-cab0-43f2-b960-9d4e3108f2cc" name="Changes" comment="fix: ajuste nos arquivos do projeto." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +312,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705018084518</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix: inclusao de BigDecimal">
+      <option name="closed" value="true" />
+      <created>1771992421325</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1771992421325</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix: ajuste nos arquivos do projeto.">
+      <option name="closed" value="true" />
+      <created>1771992651771</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1771992651771</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,6 +356,8 @@
     <MESSAGE value="Atualização referente as aulas 32, 33, 34, 35." />
     <MESSAGE value="Atualização referente as aulas 36 e 37." />
     <MESSAGE value="Revisando os conteudos do maratona-java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revisando os conteudos do maratona-java." />
+    <MESSAGE value="fix: inclusao de BigDecimal" />
+    <MESSAGE value="fix: ajuste nos arquivos do projeto." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: ajuste nos arquivos do projeto." />
   </component>
 </project>
